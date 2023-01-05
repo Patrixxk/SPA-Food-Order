@@ -1,5 +1,4 @@
 import React from "react";
-import Meals from "./Meals";
 
 import classes from "./MealsSummary.module.css";
 
